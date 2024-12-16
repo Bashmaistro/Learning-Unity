@@ -17,12 +17,7 @@ public class Death : MonoBehaviour
     void Update()
     {
         
-        if (playerControllerScript.gameOver == true)
-        {
-            
-            obstacleRb.AddForce(Vector3.right * 1, ForceMode.Impulse);
-
-        }
+        
         
     }
 }
