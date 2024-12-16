@@ -68,6 +68,7 @@ crashlytics-build.properties
 /[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
 
 # Temporary auto-generated Android Assets
+Handouts/Temp/
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 Handouts/Temp/FSTimeGet-c34387f82b03d754cae6ef220aec10c7
@@ -76,3 +77,5 @@ Handouts/Temp/FSTimeGet-76da5ed2f788eaf4bab5b61f9041a436
 Handouts/Temp/FSTimeGet-7e18176ed5f87af4484c2d8d8b7dd53b
 Handouts/Temp/UnityLockfile
 Handouts/Temp/workerlic
+Handouts/Temp/FSTimeGet-4db471ec456099e449cb506b61675b2f
+Handouts/Temp/FSTimeGet-8a189c82071794d4f8b643f78466c033
